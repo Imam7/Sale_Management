@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="designation">
+        <item>Manager</item>
+        <item>Cook</item>
+        <item>Security</item>
+        <item>Cleaner</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="stepLabels">
+        <item>Property Info</item>
+        <item>Contact Info</item>
+        <item>Visit Info</item>
+    </string-array>
+
+</resources>

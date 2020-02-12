@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199396209795",
+    "firebase_url": "https://avaasa-sales.firebaseio.com",
+    "project_id": "avaasa-sales",
+    "storage_bucket": "avaasa-sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199396209795:android:f3aa2dfb6f5bbcdb5bd7b6",
+        "android_client_info": {
+          "package_name": "com.letsmobility.avaasasales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199396209795-3ssqmm2ng4fcj53ldjlckt60b9hjkkv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.letsmobility.avaasasales",
+            "certificate_hash": "d777278a1ff40af8ea5ee51239e2180fef757d64"
+          }
+        },
+        {
+          "client_id": "199396209795-67ucgqp0r5q783rcf9qvm9s3lobdvbgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWv1vBFZtMKQ_Eltt_lDZzk4RDVqhjeFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199396209795-67ucgqp0r5q783rcf9qvm9s3lobdvbgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

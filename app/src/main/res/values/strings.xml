@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AvaasaSales</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="property_name">Property Name</string>
+    <string name="property_address">Property Address</string>
+    <string name="area">Area</string>
+    <string name="pin_code">Pin code</string>
+    <string name="prop_photo">Property photos </string>
+    <string name="photo_desc">Take minimum 1 Photo,If possible One from outside and One from inside</string>
+    <string name="contact_person_pic">Contact Person Picture/ Visiting Card Picture (Optional)</string>
+    <string name="location">Location</string>
+    <string name="continues">Continue</string>
+    <string name="complete">Complete</string>
+    <string name="contact_person_name">Contacted Person name</string>
+    <string name="contact_person_contact">Contacted Person Contact</string>
+    <string name="contact_person_alt_contact">Alternate Contact Number(optional)</string>
+    <string name="contact_person_designation">Contacted Person Designation</string>
+    <string name="review">Contacted Person Review</string>
+    <string name="like_desc">Did Customer like the product</string>
+    <string name="rate_customer">Rate Customer</string>
+    <string name="sale_person_remark">Sales Person Remark</string>
+    <string name="schedule_follow_up">Schedule Follow Up</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="remark">Remark</string>
+    <string name="create_visit">Create Visit</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="update_photo">Update Photo</string>
+    <string name="successful">Hurray! Successfully Submitted </string>
+    <string name="action_create_another">create another visit</string>
+    <string name="action_exit">Exit</string>
+
+    //Permissions
+    <string name="photos_permission">Please allow App to access your Photos</string>
+    <string name="camera_permission">Please allow App to access the Camera</string>
+    <string name="phone_state_permission">Please allow App to access the Phone state</string>
+    <string name="go_to_settings">Go to Settings</string>
+
+</resources>
